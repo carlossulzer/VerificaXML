@@ -1,0 +1,10 @@
+C:\Carlos\AAP\VerificaXML\VerificaXML\VerificaXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Carlos\AAP\VerificaXML\VerificaXML\VerificaXML\obj\Debug\VerificaXML.Form1.resources
+C:\Carlos\AAP\VerificaXML\VerificaXML\VerificaXML\obj\Debug\VerificaXML.Properties.Resources.resources
+C:\Carlos\AAP\VerificaXML\VerificaXML\VerificaXML\obj\Debug\VerificaXML.csproj.GenerateResource.Cache
+C:\Carlos\AAP\VerificaXML\VerificaXML\VerificaXML\bin\Debug\VerificaXML.exe
+C:\Carlos\AAP\VerificaXML\VerificaXML\VerificaXML\bin\Debug\VerificaXML.pdb
+C:\Carlos\AAP\VerificaXML\VerificaXML\VerificaXML\obj\Debug\VerificaXML.exe
+C:\Carlos\AAP\VerificaXML\VerificaXML\VerificaXML\obj\Debug\VerificaXML.pdb
+C:\Carlos\AAP\VerificaXML\VerificaXML\VerificaXML\obj\Debug\VerificaXML.csproj.ResolveComReference.cache
+C:\Carlos\AAP\VerificaXML\VerificaXML\VerificaXML\bin\Debug\VerificaXML.exe.config
